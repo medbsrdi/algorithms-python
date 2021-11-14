@@ -15,6 +15,5 @@ queue.append(3)
 print(queue)
 
 #todo pop an item off the front of the queue
-queue.pop()
-queue.pop()
+queue.popleft()
 print(queue)
